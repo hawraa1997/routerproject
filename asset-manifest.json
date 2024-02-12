@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/routerproject/static/css/main.fb493976.css",
+    "main.js": "/routerproject/static/js/main.95d546bc.js",
+    "static/js/592.db1a34cb.chunk.js": "/routerproject/static/js/592.db1a34cb.chunk.js",
+    "static/media/man29.jpg": "/routerproject/static/media/man29.bceaab7c26a09fdf4a57.jpg",
+    "static/media/error.png": "/routerproject/static/media/error.75d31432b053ee121bd5.png",
+    "static/media/man28.jpg": "/routerproject/static/media/man28.f34f81d681d27d3f7e6d.jpg",
+    "static/media/man31.jpg": "/routerproject/static/media/man31.958ec8a7abb0035902f6.jpg",
+    "static/media/man32.jpg": "/routerproject/static/media/man32.bcd56960a65d2cd9d6cb.jpg",
+    "index.html": "/routerproject/index.html",
+    "main.fb493976.css.map": "/routerproject/static/css/main.fb493976.css.map",
+    "main.95d546bc.js.map": "/routerproject/static/js/main.95d546bc.js.map",
+    "592.db1a34cb.chunk.js.map": "/routerproject/static/js/592.db1a34cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb493976.css",
+    "static/js/main.95d546bc.js"
+  ]
+}
